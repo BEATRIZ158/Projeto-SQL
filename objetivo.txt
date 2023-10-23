@@ -1,0 +1,2 @@
+Olá! O objetivo da criação desse repositório é guardar todos os exercícios feitos durante o curso de Análise de
+dados da plataforma Coursera ministrado pelos profissionais do Google. 
